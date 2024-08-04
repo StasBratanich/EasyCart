@@ -1,4 +1,5 @@
-<h1 align="center">EasyCart - E-Commerce App</h1>
+<h1 align="center">EasyCart</h1>
+<h2 align="center">E-Commerce App</h2>
 
 ***
 <p align="center">Hebrew Presentation video</p>
