@@ -73,7 +73,7 @@ EasyCart includes the following functionalities:
 ![7](https://github.com/user-attachments/assets/fe27c5dc-4b9d-448e-a5f9-e87a205001a7)
 
 - Order Completion Animation: After placing an order, users see a success animation indicating that the order has been successfully placed.
-- Profle:
+- Profile:
   - Order History: Users can review their past orders, including details such as order date, items purchased, and total amount spent.
 
 ***
