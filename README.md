@@ -2,8 +2,6 @@
 <h2 align="center">E-Commerce App</h2>
 
 ***
-<p align="center">Hebrew Presentation video</p>
-<p align="center">Link Here</p>
 
 <p align="center">Welcome to the EasyCart E-Commerce App project!</p>
 <p align="center">This application is designed to provide a seamless online shopping experience.</p>
